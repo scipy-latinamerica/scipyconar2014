@@ -65,23 +65,28 @@ Diseño de un plan doctoral para el análisis de datos astrofísicos con Python
 
 Introduction to PyCUDA
 
-# <codecell>
+# <markdowncell>
 
+# # Charlas relámpago 20/10
+# * PyCon Argentina 2014 [Juan Pedro Fissanotti](https://github.com/fisadev)
+
+# <markdowncell>
+
+# # Charlas Relámpago 21/10
 
 # <markdowncell>
 
 # # Charlas Relámpago 22/10
 # 
 # * Visualizando hábitos de músia (Marguglio Nicolás)
-# * Prymatex el proyecto (Diego van Haaster)
+# * Prymatex el proyecto ([Diego van Haaster](https://github.com/diegomvh))
 # * Análisis multicriterio (Juan Cabral)
 # * Optimizando código Python: Mini-tips
 # * Freelanscience (for fun, profit & learning) (Pablo Celayes)
 # * Detectando Señas de Truco con Python (Santaigo Avendaño)
 # * Proyección de datos Bipatitios (Rodrigo René Cura)
-# * Pilas en Colegios Secundarios (Rodrigo René Cura, Romina Stickar)
+# * Pilas en Colegios Secundarios ([Rodrigo René Cura](http://cenpat.academia.edu/RodrigoRen%C3%A9Cura), Romina Stickar)
 
 # <codecell>
 
-!ls
 
